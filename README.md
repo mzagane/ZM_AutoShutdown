@@ -1,1 +1,3 @@
 # ZM_AutoShutdown
+A program to automating windows shutdown, restart,...
+This is an old source code (not updated since 2007 when I was a student) written in C++ builder 6,
